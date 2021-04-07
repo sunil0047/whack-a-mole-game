@@ -1,0 +1,20 @@
+{
+  "name": "mole-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil0047/whack-a-mole-game.git"
+  },
+  "author": "sunil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunil0047/whack-a-mole-game/issues"
+  },
+  "homepage": "https://github.com/sunil0047/whack-a-mole-game#readme"
+}
